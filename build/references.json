@@ -1,0 +1,21 @@
+[{
+	"title": "Tom Yeh",
+	"company": "CU Boulder",
+    "description": "Professor",
+    "phoneNumber": "555-1082",
+    "email": "TomYeh@thisisamadeupemail.zzz"
+},
+{
+	"title": "Manoj Nair",
+	"company": "NOAA",
+    "description": "NOAA Affiliate",
+    "phoneNumber": "(720) 260-4473",
+    "email": "manoj.c.nair@noaa.gov"
+},
+{
+	"title": "Brian Mapes",
+	"company": "Polycom",
+    "description": "Software Manager",
+    "phoneNumber": "(303) 223-6639",
+    "email": "brian.mapes@polycom.com"
+}]
