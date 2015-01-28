@@ -1,0 +1,19 @@
+[{
+  "company_name": "NOAA",
+  "city": "Boulder",
+  "state": "Colorado",
+  "position": "iOS/Android/Web Software Engineer Intern Developer",
+  "description": "Working on developing project such as CrowdMag and creating a few javascript graphs",
+  "website": "http://www.noaa.gov/",
+  "image": "noaa.png"
+
+},
+{
+  "company_name": "Polycom",
+  "city": "Wesminster",
+  "state": "Colorado",
+  "position": "Software Engineer Intern",
+  "description": "Working on prject involving SQL and JSON for data analysis",
+  "website": "http://www.polycom.com/",
+  "image": "polycom_logo.png"
+}]
